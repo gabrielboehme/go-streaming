@@ -72,6 +72,4 @@ func main() {
 		}
 	}
 	fmt.Println("file write done")
-
-	fmt.Println()
 }
